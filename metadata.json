@@ -1,0 +1,5 @@
+{
+  "name": "사내 규정 Q&A 챗봇",
+  "description": "업로드된 사내 문서(취업규칙, 매뉴얼 등)를 기반으로 직원들의 질문에 출처와 함께 답변해주는 전문적인 Q&A 챗봇입니다.",
+  "requestFramePermissions": []
+}
